@@ -50,5 +50,5 @@ In this game:
 ## ▶️ How to Run
 
 # Clone the repository
-git clone https://github.com/your-username/simon-game.git
+git clone git@github.com:ParmodKumar-tech/Simon-Game.git
 Open index.html in browser
